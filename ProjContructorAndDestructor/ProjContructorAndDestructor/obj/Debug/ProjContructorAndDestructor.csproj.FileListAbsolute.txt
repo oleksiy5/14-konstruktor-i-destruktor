@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\bin\Debug\ProjContructorAndDestructor.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\bin\Debug\ProjContructorAndDestructor.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\bin\Debug\ProjContructorAndDestructor.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\obj\Debug\ProjContructorAndDestructor.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\obj\Debug\ProjContructorAndDestructor.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\obj\Debug\ProjContructorAndDestructor.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\14-konstruktor-i-destruktor\ProjContructorAndDestructor\ProjContructorAndDestructor\obj\Debug\ProjContructorAndDestructor.pdb
